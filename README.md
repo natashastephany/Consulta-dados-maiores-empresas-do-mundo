@@ -2,7 +2,7 @@
 
 ## Objetivo do projeto
 
-Este projeto teve por objetivo explorar os dados de medições de poluição atmosférica global, de modo a extrair informações a partir de consultas em SQL. Para isto, foram elaboradas 4 perguntas norteadoras:
+Este projeto teve por objetivo explorar os dados de da classificação global das maiores empresas do mundo a partir de consultas em SQL. Para isto, foram elaboradas 4 perguntas norteadoras:
 
 * Qual a média de vendas em bilhões de dólares por país, em ordem decrescente?
 * 
@@ -31,10 +31,11 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 
 Este projeto foi dividido em três etapas:
 
+* Pré-tratamento - nesta etapa os títulos das colunas foram alterados na planilha em excel, de modo a evitar problemas com a leitura do arquivo no MySQL.
 * Breve exploração dos dados -
 * Realização das consultas em SQL - nesta etapa as perguntas foram respondidas.
 
-Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo em word, com a descrição das etapas e o print dos resultados das consultas em SQL.
+Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo em word, com a descrição das etapas e o print dos resultados das consultas em SQL. Todas as consultas foram realizadas no software MySQL Workbench.
 
 ## Conclusão
 
