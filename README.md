@@ -1,17 +1,17 @@
-# Análise de dados das maiores empresas do mundo
+# Análise de dados da classificação das maiores empresas do mundo
 
 ## Objetivo do projeto
 
 Este projeto teve por objetivo explorar os dados de da classificação global das maiores empresas do mundo a partir de consultas em SQL. Para isto, foram elaboradas algumas perguntas norteadoras:
 
-* Qual a média de vendas (em bilhões de dólares) por país, em ordem decrescente?
+* Qual a média de vendas dos 10 países que mais venderam?
 * Qual empresa teve o menor valor de mercado neste ano? 
 * Qual continente teve o maior lucro neste ano?
 * Alguma companhia no dataset teve prejuízo?
 * Há quantas empresas por país no dataset?
-* Quais companhias tiveram ativos superior a 2000 bilhões de dólares?
+* Quais companhias tiveram ativos superiores a 2000 bilhões de dólares?
 
-Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e não tirar conclusões sobre o conjunto de dados. Inclusive, o título do dataset se refere às 2.000 maiores empresas do mundo, mas a planilha em excel contém apenas 1924 registros de empresas. 
+Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e não tirar conclusões sobre o conjunto de dados. Inclusive, o título do dataset se refere às 2000 maiores empresas do mundo, mas a planilha em excel contém apenas 1924 registros de empresas. 
 
 ## Fonte de dados
 
