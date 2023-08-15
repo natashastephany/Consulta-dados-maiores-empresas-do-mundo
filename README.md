@@ -5,7 +5,9 @@
 Este projeto teve por objetivo explorar os dados de da classificação global das maiores empresas do mundo a partir de consultas em SQL. Para isto, foram elaboradas 4 perguntas norteadoras:
 
 * Qual a média de vendas em bilhões de dólares por país, em ordem decrescente?
-* 
+* Qual empresa teve o menor valor de mercado?
+* Qual continente teve a maior média de lucro?
+* Alguma companhia no dataset teve prejuízo?
 
 Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e não tirar conclusões sobre o conjunto de dados. Inclusive, o título do dataset se refere às 2.000 maiores empresas do mundo, mas a planilha em excel contém apenas 1924 registros de empresas. 
 
@@ -15,17 +17,8 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 
 #### Dicionário de dados
 
-* location - localidade em que o poluente foi emitido;
-* city - cidade em que o poluente foi emitido;
-* country - país em que o poluente foi emitido (há 47 países no dataset);
-* pollutant - poluente;
-* value - valor da emissão do poluente;
-* timestamp - data e horário em que a emissão foi registrada;
-* unit - unidade da emissão do poluente (ppm ou miligrama/m³)
-* source_name - nome da fonte;
-* latitude - latitude;
-* longitude - longitude
-* average_over_in_hours - média de emissão do poluente em horas. 
+* Global Rank -
+* 
 
 ## Etapas do projeto
 
