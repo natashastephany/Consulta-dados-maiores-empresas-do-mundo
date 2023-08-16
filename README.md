@@ -42,6 +42,7 @@ Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo e
 
 ## Resultado
 
-O dataset 
+O dataset analisado possuía 1924 registros de empresas, que se encontravam espalhadas por 60 países. Os países com as maiores quantidades de empresas do dataset são Estados Unidos, Japão e China, com 534, 246 e 135 companhias, respectivamente. Dentre os países que possuíam o maior valor em vendas, os Países Baixos se destacaram em primeiro lugar (com 47,09 bilhões em vendas), seguido da Alemanha (41,7 bilhões) e da França (34,15 bilhões).
+
 
 
