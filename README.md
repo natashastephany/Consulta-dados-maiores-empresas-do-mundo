@@ -34,9 +34,9 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 
 Este projeto foi dividido em três etapas:
 
-* Pré-tratamento - nesta etapa os títulos das colunas foram alterados na planilha em excel, retirando-se caracteres especiais e espaço entre os nomes. Isto foi deito de modo a evitar problemas com a leitura do arquivo no MySQL.
-* Breve exploração dos dados -
-* Realização das consultas em SQL - nesta etapa as perguntas foram respondidas.
+* Pré-tratamento - nesta etapa os títulos das colunas foram alterados na planilha em excel, retirando-se caracteres especiais e espaço entre os nomes. Isto foi deito de modo a evitar problemas com a leitura do arquivo no MySQL;
+* Breve exploração dos dados - nesta etapa foi feita uma breve exploração, de modo a visualizar os dados e verificar a presença de valores nulos;
+* Realização das consultas em SQL - nesta etapa as perguntas foram respondidas a partir de consultas em SQL.
 
 Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo em word, com a descrição das etapas e o print dos resultados das consultas em SQL. Todas as consultas foram realizadas no software MySQL Workbench.
 
