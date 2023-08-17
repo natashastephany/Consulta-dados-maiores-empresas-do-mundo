@@ -4,14 +4,14 @@
 
 Este projeto teve por objetivo explorar os dados de da classificação global das maiores empresas do mundo a partir de consultas em SQL. Para isto, foram elaboradas algumas perguntas norteadoras:
 
+* Há quantas empresas por país no dataset?
 * Qual a média de vendas dos 10 países que mais venderam?
 * Qual empresa teve o menor e o maior valor de mercado neste ano? 
 * Qual continente teve o maior lucro neste ano?
 * Alguma companhia no dataset teve prejuízo?
-* Há quantas empresas por país no dataset?
 * Quais companhias tiveram ativos superiores a 2000 bilhões de dólares?
 
-Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e não tirar conclusões sobre o conjunto de dados. Inclusive, o título do dataset se refere às 2000 maiores empresas do mundo, mas a planilha em excel contém apenas 1924 registros de empresas. 
+Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e não tirar conclusões sobre o conjunto de dados. Inclusive, o título do dataset se refere às 2000 maiores empresas do mundo, mas a planilha em excel contém apenas 1924 registros de empresas. Portanto, os resultados aqui apresentados tem apenas por finalidade expor um resumo das consultas realizadas, e não tirar conclusão dos dados das empresas presentes no dataset.
 
 ## Fonte de dados
 
@@ -20,15 +20,15 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 #### Dicionário de dados
 
 * Global Rank - Rank global
-* Company - empresa
-* Sales ($ billion) - vendas (bilhões de dólares)
-* Profits ($ billion) - lucros  (bilhões de dólares)
-* Assets ($ billion) - ativos (bilhões de dólares)
-* Market Value ($ billion) - valor de mercado (bilhões de dólares)
-* Country - país
-* Continent - continente
-* Latitude -  latitude
-* Longitude - longitude
+* Company - Empresa
+* Sales ($ billion) - Vendas (bilhões de dólares)
+* Profits ($ billion) - Lucros  (bilhões de dólares)
+* Assets ($ billion) - Ativos (bilhões de dólares)
+* Market Value ($ billion) - Valor de mercado (bilhões de dólares)
+* Country - País
+* Continent - Continente
+* Latitude -  Latitude
+* Longitude - Longitude
 
 ## Etapas do projeto
 
