@@ -1,4 +1,4 @@
-# Análise de dados da classificação das maiores empresas do mundo
+# Consulta ao conjunto de dados da classificação das maiores empresas do mundo
 
 ## Objetivo do projeto
 
@@ -34,7 +34,7 @@ Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://
 
 Este projeto foi dividido em três etapas:
 
-* Pré-tratamento - nesta etapa os títulos das colunas foram alterados na planilha em excel, retirando-se caracteres especiais e espaço entre os nomes. Isto foi deito de modo a evitar problemas com a leitura do arquivo no MySQL;
+* Pré-tratamento - nesta etapa os títulos das colunas foram alterados na planilha em excel, retirando-se caracteres especiais e espaço entre os nomes. Isto foi feito de modo a evitar problemas com a leitura do arquivo no MySQL;
 * Breve exploração dos dados - nesta etapa foi feita uma breve exploração, de modo a visualizar os dados e verificar a presença de valores nulos;
 * Realização das consultas em SQL - nesta etapa as perguntas foram respondidas a partir de consultas em SQL.
 
@@ -42,7 +42,9 @@ Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo e
 
 ## Resultado
 
-O dataset analisado possuía 1924 registros de empresas, que se encontravam espalhadas por 60 países. Os países com as maiores quantidades de empresas do dataset são Estados Unidos, Japão e China, com 534, 246 e 135 companhias, respectivamente. Dentre os países que possuíam o maior valor em vendas, os Países Baixos se destacaram em primeiro lugar (com 47,09 bilhões em vendas), seguido da Alemanha (41,7 bilhões) e da França (34,15 bilhões).
+O dataset analisado possuía 1924 registros de empresas, que se encontravam espalhadas por 60 países. Os países com as maiores quantidades de empresas do dataset são Estados Unidos, Japão e China, com 534, 246 e 135 companhias, respectivamente. Dentre os países que possuíam o maior valor em média de vendas, os Países Baixos se destacaram em primeiro lugar (com 47,09 bilhões em vendas), seguido da Alemanha (41,7 bilhões) e da França (34,15 bilhões).
+Já em relação ao valor de mercado, a empresa Ambac Financial Group aparece com o menor valor de mercado, e a empresa Apple com o maior valor.
+O continente que teve o maior lucro foi a América do Norte, com 44,9 bilhões de dólares, e 153 empresas da lista apresentaram prejuízo no ano analisado.
 
 
 
