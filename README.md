@@ -5,7 +5,7 @@
 Este projeto teve por objetivo explorar os dados de da classificação global das maiores empresas do mundo a partir de consultas em SQL. Para isto, foram elaboradas algumas perguntas norteadoras:
 
 * Qual a média de vendas dos 10 países que mais venderam?
-* Qual empresa teve o menor valor de mercado neste ano? 
+* Qual empresa teve o menor e o maior valor de mercado neste ano? 
 * Qual continente teve o maior lucro neste ano?
 * Alguma companhia no dataset teve prejuízo?
 * Há quantas empresas por país no dataset?
