@@ -15,20 +15,21 @@ Obs: o objetivo do projeto é apenas explorar os dados e fazer consultas SQL, e 
 
 ## Fonte de dados
 
-Os dados foram extraídos da Base de Dados Kaggle (disponível no link: https://www.kaggle.com/datasets/joebeachcapital/top-2000-companies-globally). O conjunto de dados escolhido possui o título de "Top 2000 Companies Globally" (As 2000 maiores empresas do mundo). O dataset possui 1924 linhas e 10 colunas, cuja variáveis encontram-se descritas no dicionário de dados abaixo.
+Os dados foram extraídos da Base de Dados [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/top-2000-companies-globally). O conjunto de dados escolhido possui o título de "Top 2000 Companies Globally" (As 2000 maiores empresas do mundo). O dataset possui 1924 linhas e 10 colunas, cuja variáveis encontram-se descritas no dicionário de dados abaixo.
 
 #### Dicionário de dados
 
-* Global Rank - Rank global
-* Company - Empresa
-* Sales ($ billion) - Vendas (bilhões de dólares)
-* Profits ($ billion) - Lucros  (bilhões de dólares)
-* Assets ($ billion) - Ativos (bilhões de dólares)
-* Market Value ($ billion) - Valor de mercado (bilhões de dólares)
-* Country - País
-* Continent - Continente
-* Latitude -  Latitude
-* Longitude - Longitude
+| Variável | Significado | 
+| Global Rank | Rank global |
+| Company | Empresa |
+| Sales ($ billion) | Vendas (bilhões de dólares) |
+| Profits ($ billion) | Lucros  (bilhões de dólares) |
+| Assets ($ billion) | Ativos (bilhões de dólares) |
+| Market Value ($ billion) | Valor de mercado (bilhões de dólares) |
+| Country | País |
+| Continent | Continente |
+| Latitude |  Latitude |
+| Longitude | Longitude |
 
 ## Etapas do projeto
 
