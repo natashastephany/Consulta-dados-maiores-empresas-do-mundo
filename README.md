@@ -40,7 +40,8 @@ Este projeto foi dividido em três etapas:
 * Breve exploração dos dados - nesta etapa foi feita uma breve exploração, de modo a visualizar os dados e verificar a presença de valores nulos;
 * Realização das consultas em SQL - nesta etapa as perguntas foram respondidas a partir de consultas em SQL.
 
-Todas as etapas estão descritas no arquivo "Projeto2". Trata-se de um arquivo em word, com a descrição das etapas e o print dos resultados das consultas em SQL. Todas as consultas foram realizadas no software MySQL Workbench.
+As consultas realizadas em SQL se encontram no arquivo "Consultas_SQL", e o resultado de cada consulta se encontra do arquivo "Resultado_consultas".
+Todas as consultas em SQL foram realizadas no software MySQL Workbench.
 
 ## 📈 Resultado
 
