@@ -20,6 +20,7 @@ Os dados foram extraídos da Base de Dados [Kaggle](https://www.kaggle.com/datas
 #### 📖 Dicionário de dados
 
 | Variável | Significado | 
+|-----:|---------------|
 | Global Rank | Rank global |
 | Company | Empresa |
 | Sales ($ billion) | Vendas (bilhões de dólares) |
