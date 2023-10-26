@@ -6,7 +6,7 @@ Este projeto teve por objetivo explorar os dados de da classificação global da
 
 * Há quantas empresas por país no dataset?
 * Qual a média de vendas dos 10 países que mais venderam?
-* Qual empresa teve o maior valor de mercado neste ano? 
+* Quais empresas tiveram os maiores valores de mercado neste ano? 
 * Qual continente teve o maior lucro neste ano?
 * Alguma companhia no dataset teve prejuízo?
 * Quais companhias tiveram ativos superiores a 2000 bilhões de dólares?
